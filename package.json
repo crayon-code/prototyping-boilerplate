@@ -1,0 +1,20 @@
+{
+  "name": "crayoncode-boilerplate",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/index.pug",
+  "scripts": {
+    "start": "parcel src/base/index.pug"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "parcel-plugin-nuke-dist": "^1.0.1",
+    "pug": "^3.0.0",
+    "sass": "^1.32.4"
+  }
+}
