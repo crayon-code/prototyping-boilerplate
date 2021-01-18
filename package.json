@@ -6,8 +6,8 @@
   "scripts": {
     "start": "parcel src/base/index.pug"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "crayoncode",
+  "license": "MIT",
   "dependencies": {
     "normalize.css": "^8.0.1",
     "parcel": "^1.12.4"
